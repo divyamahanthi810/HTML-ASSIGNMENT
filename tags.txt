@@ -1,0 +1,43 @@
+TAGS AND ATTRIBUTES
+
+1.html tag
+	html tag is represted as <html> is also has closeing tags </html>.It is used to represent root of html document.It contains all the elements in it
+example:<html></html>
+<br>
+2.paragraph tag
+	paragrapgh tag is represted with <p> which allow to write the paragarph in it
+example:<p>Today is sunday</p>
+ <br>
+3.anchor tag
+	it is represted by <a> which is used for hyperlink.it uses most specific attribute href which help in connect with other websites.
+example: <a href="www.cat.jpg">cat</a>
+ <br>
+4.image tag
+	it is represted by <img> which is used to embedded images.src attribute specifies the path
+example:<img src=:"dog.jpg"></img>
+ <br>
+5.Bold tag
+	it is represted with <b> used for highlighting the text
+example:<b>hi</b>
+ <br>
+6.italic tag
+	it is used to write the text in italic format
+exaple:<i>welcome</i>
+ <br>
+
+Attributes:
+1.href attribute:
+	it is used to hyperlink assigning in the anchore tag
+example:<a href="google.com">browse google</a>
+
+2.src attribute:
+	it is used for path establish for image support format
+example:<img src="cat.jpg"></img>
+
+3.style attribute:
+	it is used to add style for the give text
+example:<a style="color:red">hello</a>
+
+4.alt attribute:
+	provides the additional information for the image or text
+example:<img src="cat.jpg" alt="cat pictre"></img>
